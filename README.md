@@ -12,3 +12,7 @@ volatile. Basically meaning that swiping out of the app will
 your mind more at peace, if you haven't
  already done so when first opening the app, you can 
 change the location permission to "only while using the app".
+
+# Some Additional Info
+Any "weirdness" in the distance counter could be attributed to the limited 0-10m accuracy.
+I am cool so star this repo.
