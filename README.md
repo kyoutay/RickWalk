@@ -1,16 +1,14 @@
-# walkmoney
+# RickWalk
+Not Rickroll, but Rickwalk. An app that tracks your distance traveled 
+in terms of various things, including Rick Astley. Utilizes the 
+Haversine formula. Inspired by 
+Tom Scott: https://youtu.be/8YUWDrLazCg
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Privacy Policy
+To not be verbose, I don't store, monitor, or do anything 
+with your data. Any data being dealt with within the app is 
+volatile. Basically meaning that swiping out of the app will
+ delete any data that was dealt with during the app run. To keep 
+your mind more at peace, if you haven't
+ already done so when first opening the app, you can 
+change the location permission to "only while using the app".
