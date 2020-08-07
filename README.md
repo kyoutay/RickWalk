@@ -1,8 +1,8 @@
 # RickWalk
 Not Rickroll, but Rickwalk. An app that tracks your distance traveled 
 in terms of various things, including Rick Astley. Utilizes the 
-Haversine formula. Inspired by 
-Tom Scott: https://youtu.be/8YUWDrLazCg
+Haversine formula.
+Download on the google playstore:
 
 # Privacy Policy
 To not be verbose, I don't store, monitor, or do anything 
