@@ -2,7 +2,7 @@
 Not Rickroll, but Rickwalk. An app that tracks your distance traveled 
 in terms of various things, including Rick Astley. Utilizes the 
 Haversine formula.
-Download on the google playstore: 
+Download on the google playstore: https://play.google.com/store/apps/details?id=com.kyleisawesome.walkmoney&hl=en_US
 
 # Privacy Policy
 To not be verbose, I don't store, monitor, or do anything 
